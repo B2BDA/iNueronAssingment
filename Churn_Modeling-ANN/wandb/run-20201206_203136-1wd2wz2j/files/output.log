@@ -1,0 +1,43 @@
+INFO:tensorflow:Reloading Oracle from existing project project1\Churn\oracle.json
+Traceback (most recent call last):
+  File "c:\programdata\anaconda3\envs\tf_gpu\lib\site-packages\kerastuner\engine\hypermodel.py", line 104, in build
+    model = self.hypermodel.build(hp)
+  File "<ipython-input-4-933f14837b86>", line 2, in build_model
+    model = Sequential()
+NameError: name 'Sequential' is not defined
+Invalid model 0/5
+Traceback (most recent call last):
+  File "c:\programdata\anaconda3\envs\tf_gpu\lib\site-packages\kerastuner\engine\hypermodel.py", line 104, in build
+    model = self.hypermodel.build(hp)
+  File "<ipython-input-4-933f14837b86>", line 2, in build_model
+    model = Sequential()
+NameError: name 'Sequential' is not defined
+Invalid model 1/5
+Traceback (most recent call last):
+  File "c:\programdata\anaconda3\envs\tf_gpu\lib\site-packages\kerastuner\engine\hypermodel.py", line 104, in build
+    model = self.hypermodel.build(hp)
+  File "<ipython-input-4-933f14837b86>", line 2, in build_model
+    model = Sequential()
+NameError: name 'Sequential' is not defined
+Invalid model 2/5
+Traceback (most recent call last):
+  File "c:\programdata\anaconda3\envs\tf_gpu\lib\site-packages\kerastuner\engine\hypermodel.py", line 104, in build
+    model = self.hypermodel.build(hp)
+  File "<ipython-input-4-933f14837b86>", line 2, in build_model
+    model = Sequential()
+NameError: name 'Sequential' is not defined
+Invalid model 3/5
+Traceback (most recent call last):
+  File "c:\programdata\anaconda3\envs\tf_gpu\lib\site-packages\kerastuner\engine\hypermodel.py", line 104, in build
+    model = self.hypermodel.build(hp)
+  File "<ipython-input-4-933f14837b86>", line 2, in build_model
+    model = Sequential()
+NameError: name 'Sequential' is not defined
+Invalid model 4/5
+Traceback (most recent call last):
+  File "c:\programdata\anaconda3\envs\tf_gpu\lib\site-packages\kerastuner\engine\hypermodel.py", line 104, in build
+    model = self.hypermodel.build(hp)
+  File "<ipython-input-4-933f14837b86>", line 2, in build_model
+    model = Sequential()
+NameError: name 'Sequential' is not defined
+Invalid model 5/5
